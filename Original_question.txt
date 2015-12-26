@@ -1,4 +1,4 @@
-・question1
+・question1　
 for文を使用し、31から50までの数字をechoして下さい。
 
 〜問題作成の理由〜
